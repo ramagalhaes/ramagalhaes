@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hi there! 👋 <br>I'm Raphael a 24y/o <strong>Software Developer</strong>.<br>
+  Hi there! 👋 <br><br>I'm Raphael a 24y/o <strong>Software Developer</strong>.<br>
 </p>
 
 <p align="left">
